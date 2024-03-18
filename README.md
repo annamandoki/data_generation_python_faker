@@ -14,11 +14,11 @@ Generate 2 years of email sends data for approx. 40,000 customers and 6 differen
 [View code](https://github.com/annamandoki/data_generation_python_faker/blob/main/Email_Marketing_Campaign_Faker.ipynb)
 
 ### Tableau Dashboard
-[Tableau Public link](https://public.tableau.com/app/profile/anna.mandoki/viz/EmailMarketingCampaignsDashboard_17101671385060/EmailMarketingCampaigns)
+[View on Tableau Public](https://public.tableau.com/app/profile/anna.mandoki/viz/EmailMarketingCampaignsDashboard_17101671385060/EmailMarketingCampaigns)
 
 ![Email Marketing Campaigns](https://github.com/annamandoki/data_generation_python_faker/assets/116653694/0d5cac2c-d39e-49c7-84c2-6ba017f9fe76)
 
 ### References
-Code used for reference: Email Marketing Campaign Dashboard by Marius Nikiforovas [link](https://github.com/Marius321/Email-Marketing-Campaign-Dashboard)
+Code used for reference: Email Marketing Campaign Dashboard by Marius Nikiforovas [Link to Code](https://github.com/Marius321/Email-Marketing-Campaign-Dashboard)
 
 Anna Mándoki, 15 March 2024
