@@ -10,7 +10,7 @@ Generate mock data with Python to be used as data source for building Business D
 - datetime
 
 ## Email Marketing Campaign Data
-Generate 2 years of email sends data for approx. 40,000 customers and 6 different email types.
+Generate 2 years of email sends data for approx. 40,000 customers and 6 different email types, sent in daily intervals, with varying probabilities for interactions (opened, clicked, bounced etc). 
 [View code](https://github.com/annamandoki/data_generation_python_faker/blob/main/Email_Marketing_Campaign_Faker.ipynb)
 
 ### Tableau Dashboard
