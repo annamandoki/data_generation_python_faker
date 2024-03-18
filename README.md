@@ -21,4 +21,8 @@ Generate 2 years of email sends data for approx. 40,000 customers and 6 differen
 ### References
 Code used for reference: Email Marketing Campaign Dashboard by Marius Nikiforovas [Link to Code](https://github.com/Marius321/Email-Marketing-Campaign-Dashboard)
 
+## Related projects
+
+[Data Preparation for Tableau in Python](https://github.com/annamandoki/data_preparation_in_python)
+
 Anna Mándoki, 18 March 2024
